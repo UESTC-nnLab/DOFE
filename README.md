@@ -1,1 +1,1 @@
-DOFE的主要文件在droid_slam文件夹下的flow3d_vo_net.py; droid_slam/modules文件夹下的corr_depth.py,depthGuide.py,UpdateModule.py; 以及droid_slam/modules/patchEmbed文件夹下面的文件。
+后续会逐步更新。。。
